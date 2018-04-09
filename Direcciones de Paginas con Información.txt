@@ -1,3 +1,5 @@
 https://es.slideshare.net/emergar/guia-practica-condicionales-en-java-con-netbeans-01 (09/04/)
+http://www.didierperez.com/2012/02/diagrama-de-clases-uml-agregacion-y-composicion/
+https://prezi.com/ykovbgkh0zic/diagrama-de-clases/
 
 https://prezi.com/lshux9eqtzdn/java-clases-y-metodos/(06/04)
