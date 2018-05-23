@@ -9,3 +9,6 @@ http://personales.unican.es/corcuerp/java/Labs/LAB_12.htm#Exercise_1(13/04)
 
 https://manuel.cillero.es/doc/metrica-3/tecnicas/diagrama-de-clases/(14/05)
 https://www.aprenderaprogramar.com/index.php?option=com_content&view=article&id=648:enumerados-como-clases-enum-en-java-constructores-metodo-values-ejercicio-ejemplo-resuelto-cu00682b&catid=68&Itemid=188
+
+
+https://www.aprenderaprogramar.com/index.php?option=com_content&view=article&id=605:interface-list-clase-linkedlist-api-java-ejercicio-diferencias-entre-arraylist-y-linkedlist-codigo-cu00921c&catid=58&Itemid=180
