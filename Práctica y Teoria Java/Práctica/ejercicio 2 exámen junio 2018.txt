@@ -1,0 +1,9 @@
+for ( Foto fotoActual : this.foto)
+{
+     if (fotoActual.getTamaño()<=umbral)
+	{
+              return true;
+	}
+	
+	return false;
+}
