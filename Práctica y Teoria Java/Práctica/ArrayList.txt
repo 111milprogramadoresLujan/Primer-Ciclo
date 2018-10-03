@@ -1,0 +1,2 @@
+http://puntocomnoesunlenguaje.blogspot.com/2012/12/arraylist-en-java.html
+https://www.arquitecturajava.com/java-iterator-vs-foreach/
